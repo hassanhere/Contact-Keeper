@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://hassan123:hassan123@phone-book-cluster.guxpwit.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
